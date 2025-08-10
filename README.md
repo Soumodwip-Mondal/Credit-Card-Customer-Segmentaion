@@ -1,4 +1,4 @@
-# 💳 Credit Card Customer Segmentation with K-Means
+# 💳 Credit Card Customer Segmentation and behavior analysis
 
 **Goal:**  
 Segment credit card customers based on their **spending patterns** and **repayment behavior** to help businesses:
