@@ -48,8 +48,7 @@ By **clustering customers into segments**, companies can tailor:
 - Retained ~85% variance with top components
 
 ### **5. Clustering (K-Means)**
-- Elbow Method to determine optimal k  
-- Silhouette Score for validation  
+- Elbow Method to determine optimal k   
 - Final model with **k=4** clusters
 
 ### **6. Cluster Profiling**
