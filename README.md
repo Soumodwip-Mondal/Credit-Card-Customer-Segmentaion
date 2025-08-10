@@ -80,7 +80,7 @@ By **clustering customers into segments**, companies can tailor:
 ## 📸 Visualizations
 | PCA Clusters | Feature Distributions |
 |--------------|-----------------------|
-| ![Clusters](images/clusters.png) | ![Distributions](images/distributions.png) |
+| ![Clusters](https://github.com/Soumodwip-Mondal/Credit-Card-Customer-Segmentaion/blob/main/chart_image/final_clusters.png)) | ![Distributions](https://github.com/Soumodwip-Mondal/Credit-Card-Customer-Segmentaion/blob/main/chart_image/distributions.png) |
 
 ---
 
